@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buaiscia" alt="buaiscia" /> </p>
 
-- 🌱 I’m currently learning **the pain of transforming jQuery into JS for rendering to the DOM**
+- 🌱 I’m currently -continously- improving my knowledge **on React and vanilla JS**
 
 - 👨‍💻 All of my projects are available at [www.alexbuaiscia.com](www.alexbuaiscia.com)
 
