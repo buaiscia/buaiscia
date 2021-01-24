@@ -62,6 +62,12 @@
 
 <br>
 
+# 📩 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
