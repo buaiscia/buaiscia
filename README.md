@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A full-stack developer from Italy migrated and working in Czech Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buaiscia" alt="buaiscia" /> </p>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/buaiscia)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alex-buaiscia/)
+[![Visits Badge](https://badges.pufler.dev/visits/buaiscia/buaiscia.github.io)](https:buaiscia.github.io)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buaiscia" alt="buaiscia" /> </p>
 
 - 🌱 I’m currently -continously- improving my knowledge **on React and vanilla JS**
 
