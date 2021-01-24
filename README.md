@@ -64,6 +64,11 @@
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I transitioned from humanistic jobs to tech and development and why it is possible to start from the basics.](https://dev.to/buaiscia/how-i-transitioned-from-humanistic-jobs-to-tech-and-development-and-why-it-is-possible-to-start-from-the-basics-1p56)
+- [Mock an Axios call with a JSON file](https://dev.to/buaiscia/mock-an-axios-call-with-a-json-file-1j49)
+- [Epic React:  Fundamentals. Learning, mistakes and improvements](https://dev.to/buaiscia/epic-react-fundamentals-what-i-m-learning-3dh7)
+- [Creating events and setting listeners in Javascript](https://dev.to/buaiscia/creating-events-and-setting-listeners-in-javascript-20al)
+- [Building a site from scratch. Part 2 - First routing](https://dev.to/buaiscia/building-a-site-from-scratch-part-2-first-routing-177i)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
