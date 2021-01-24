@@ -62,7 +62,7 @@
 
 <br>
 
-# 📩 Latest Blog Posts
+## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How I transitioned from humanistic jobs to tech and development and why it is possible to start from the basics.](https://dev.to/buaiscia/how-i-transitioned-from-humanistic-jobs-to-tech-and-development-and-why-it-is-possible-to-start-from-the-basics-1p56)
 - [Mock an Axios call with a JSON file](https://dev.to/buaiscia/mock-an-axios-call-with-a-json-file-1j49)
