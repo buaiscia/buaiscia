@@ -4,6 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlexBuaiscia)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alex-buaiscia/)
+[![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=DEV.TO&logoColor=white&color=0D76A8)](https://dev.to/buaiscia)
 
 - 🌱 I’m currently -continously- improving my knowledge **on React and vanilla JS**
 
