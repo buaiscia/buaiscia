@@ -37,7 +37,6 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Babel-informational?style=flat&logo=Babel&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Gulp-informational?style=flat&logo=gulp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=Redis&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=blue)
@@ -46,6 +45,12 @@
 
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=blue)
+
+### Documenting
+
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=blue)
 
 <details>
 <summary>More Skills</summary>
