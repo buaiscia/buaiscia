@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Alex</h1>
-<h3>A full-stack developer from Italy migrated and working in Czech Republic.</h3>
+<h3>A full-stack developer from Italy migrated and working in the Czech Republic.</h3>
 <h4>Find me here:</h4>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlexBuaiscia)
@@ -94,8 +94,3 @@
 <img src="https://komarev.com/ghpvc/?username=buaiscia" alt="buaiscia" />
 
 <br>
-
-<a href="https://dev.to/buaiscia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="buaiscia" height="30" width="30" /></a>
-<a href="https://twitter.com/alexbuaiscia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexbuaiscia" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/alex-buaiscia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alex-buaiscia" height="30" width="30" /></a>
-</p>
