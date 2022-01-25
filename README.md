@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently -continously- improving my knowledge **on React and vanilla JS**
 
-- 👨‍💻 All of my projects are available at [www.alexbuaiscia.com](www.alexbuaiscia.com)
-
 - 📝 I regulary write articles on [buaiscia.github.io](buaiscia.github.io)
 
 - 💬 Ask me about **NodeJS, Javascript and React**
