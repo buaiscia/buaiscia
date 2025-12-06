@@ -6,9 +6,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alex-buaiscia/)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=DEV.TO&logoColor=white&color=0D76A8)](https://dev.to/buaiscia)
 
-- 🌱 I’m currently -continously- improving my knowledge **on React and vanilla JS**
+- 🌱 I’m currently building the PolyForum
 
-- 📝 I regulary write articles on [buaiscia.github.io](buaiscia.github.io)
+- 📝 I regulary wrote articles on [buaiscia.github.io](buaiscia.github.io) until some time ago
 
 - 💬 Ask me about **NodeJS, Javascript and React**
 
@@ -23,6 +23,8 @@
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/ReduxToolkit-informational?style=flat&logo=reduxtoolkit&logoColor=white&color=blue)
 
 
 ### Style
@@ -39,10 +41,12 @@
 ![](https://img.shields.io/badge/Gulp-informational?style=flat&logo=gulp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=Redis&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Vite-informational?style=flat&logo=vite&logoColor=white&color=blue)
 
 ### Testing & Documenting
 
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Vitest-informational?style=flat&logo=vitest&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=blue)
